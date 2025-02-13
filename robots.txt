@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /index.html
+Allow: /about.html
+Allow: /comeingsoon.html
+
+Sitemap: https://done-diligently.github.io/sitemap.xml
